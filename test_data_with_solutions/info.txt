@@ -1,0 +1,16 @@
+C:\Users\Onyedi Anyansi\Dropbox\cs534\Proj2>python csp.py test_13.txt -m -c -d
+0
+1
+6
+7
+initial nodes: ['C-p', 'C-q', 'C-r', 'C-x', 'D-p', 'D-q', 'D-r', 'D-x', 'E-p', '
+E-q', 'E-r', 'E-x', 'F-p', 'F-q', 'F-r', 'F-x', 'G-p', 'G-q', 'G-r', 'G-x', 'H-p
+', 'H-q', 'H-r', 'H-x', 'I-p', 'I-q', 'I-r', 'I-x', 'J-p', 'J-q', 'J-r', 'J-x',
+'K-p', 'K-q', 'K-r', 'K-x', 'L-p', 'L-q', 'L-r', 'L-x']
+mrv test: ['C-p', 'C-q', 'C-r', 'C-x', 'E-p', 'E-q', 'E-r', 'E-x', 'D-p', 'D-q',
+ 'D-r', 'D-x', 'G-p', 'G-q', 'G-r', 'G-x', 'F-p', 'F-q', 'F-r', 'F-x', 'I-p', 'I
+-q', 'I-r', 'I-x', 'H-p', 'H-q', 'H-r', 'H-x', 'K-p', 'K-q', 'K-r', 'K-x', 'J-p'
+, 'J-q', 'J-r', 'J-x', 'L-p', 'L-q', 'L-r', 'L-x']
+0.0% of search complete
+The solution is defaultdict(<type 'list'>, {'q': ['I', 'H'], 'p': ['C', 'F', 'L'
+], 'r': ['K', 'J'], 'x': ['G', 'E', 'D']})

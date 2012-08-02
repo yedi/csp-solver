@@ -1,0 +1,26 @@
+##### - variables
+A 29
+B 20
+C 16
+D 6
+E 19
+F 71
+G 18
+H 3
+I 17
+J 9
+K 38
+L 13
+M 2
+##### - values
+one 75
+two 100
+three 40
+four 63
+##### - fitting limits
+1 5
+##### - unary inclusive
+##### - unary exclusive
+##### - binary equals
+##### - binary not equals
+##### - mutual exclusive

@@ -1,0 +1,10 @@
+C p
+D q
+E q
+F p
+G q
+H p
+I p
+J q
+K p
+L q
